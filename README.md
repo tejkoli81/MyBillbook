@@ -1,2 +1,2 @@
 # MyBillbook
-Functional and UI test cases for MyBillBokk
+Functional and UI test cases for MyBillBook in Excel file
